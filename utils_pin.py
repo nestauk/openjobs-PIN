@@ -13,10 +13,12 @@ def print_elapsed(t0,task):
 
 def setup_tapi_url(MY_KEY = True, nb_of_calls = 0, max_calls = 98,
     dep_date = '2019-06-20', dep_time = '07:30', mode ='public'):
-    app_key = '6d207ab55f2768d85de4124b5fc4844c'
-    app_id = '87edbe5c'
-    app_key_jyl = '09c50d6b59698d5cbe85b50ee758baf6'
-    app_id_jyl = 'c99a83a0'
+    key_file = '/Users/stefgarasto/Local-Data/sensitive-data/misc_keys.csv'
+    keys = pd.read_csv(key_file)
+    app_key = keys[keys['Key name']=='transport_api_my_key']['Key value']
+    app_id = keys[keys['Key name']=='transport_api_my_id']['Key value']
+    app_key_jyl = keys[keys['Key name']=='transport_api_jyl_key']['Key value']
+    app_id_jyl = keys[keys['Key name']=='transport_api_jyl_id']['Key value']
     lon_from= '{}'
     lat_from = '{}'
     lon_to = '{}'

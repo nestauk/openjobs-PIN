@@ -6,7 +6,7 @@ Created on Fri Apr 12 11:57:20 2019
 @author: stef
 """
 
-    
+
 #
 # Copyright 2014 Google Inc. All rights reserved.
 #
@@ -31,7 +31,10 @@ from datetime import datetime
 import pickle
 import numpy as np
 
-gmaps = googlemaps.Client(key='AIzaSyDkBn1XYJHhMsWd-zrNLB0E4WkrWVNxAdY')
+key_file = '/Users/stefgarasto/Local-Data/sensitive-data/misc_keys.csv'
+keys = pd.read_csv(key_file)
+app_key = keys[keys['Key name']=='maps_api_key_old']['Key value']
+gmaps = googlemaps.Client(key=app_key)
 
 # Geocoding an address
 #geocode_result = gmaps.geocode('SE23 2UN, UK')
@@ -88,7 +91,7 @@ for iroute in range(Nroutes):
                 routes_steps[iroute]['first_rail_station'] = \
                         dct2['transit_details']['departure_stop']
             routes_steps[iroute]['last_rail_station'] = \
-                    dct2['transit_details']['arrival_stop']    
+                    dct2['transit_details']['arrival_stop']
         elif travel_mode[0] == 'TRANSIT' and 'bus' in travel_mode[1].lower():
             routes_steps[iroute]['used_bus'] = True
         elif travel_mode[0] == 'WALKING':
@@ -101,18 +104,18 @@ for iroute in range(Nroutes):
             routes_steps[iroute]['used_tube'] = True
             if routes_steps[iroute]['first_tube_station']== '':
                 routes_steps[iroute]['first_tube_station'] = dct2['transit_details']['departure_stop']
-            routes_steps[iroute]['last_tube_station'] = dct2['transit_details']['arrival_stop']    
+            routes_steps[iroute]['last_tube_station'] = dct2['transit_details']['arrival_stop']
 
         elif travel_mode[0] == 'TRANSIT' and 'Commuter train' in travel_mode[1]:
             routes_steps[iroute]['used_tube'] = True
             if routes_steps[iroute]['first_tube_station']== '':
                 routes_steps[iroute]['first_tube_station'] = dct2['transit_details']['departure_stop']
-            routes_steps[iroute]['last_tube_station'] = dct2['transit_details']['arrival_stop']    
+            routes_steps[iroute]['last_tube_station'] = dct2['transit_details']['arrival_stop']
 
         elif travel_mode[0] == 'TRANSIT' and 'Train' in travel_mode[1]:
             routes_steps[iroute]['used_rail'] = True
         '''
-        
+
 #Request distance matrix with public transit
 lon_from= '-0.134649'
 lat_from = '51.539258'
@@ -137,7 +140,7 @@ for ii in range(0):
                                     departure_time=now)#,
                                     #traffic_model="optimistic")
 
-              
+
 #%% try to print the distance and the duration for all pairs of origins and destinations
 distance = np.zeros((len(origins),len(destinations)))
 duration = np.zeros((len(origins),len(destinations)))
@@ -148,17 +151,17 @@ for ii,iorig in enumerate(origins):
         dct = matrix['rows'][ii]['elements'][jj]
         STATUS = dct['status']
         if STATUS == 'OK':
-            distance[ii,jj] = dct['distance']['value'] 
-            #['value'] gives the distance in meters, 
+            distance[ii,jj] = dct['distance']['value']
+            #['value'] gives the distance in meters,
             # 'text' gives a string in an appropriate distance
-            duration[ii,jj] = dct['duration']['value'] 
-            #['value'] gives time in seconds, 
+            duration[ii,jj] = dct['duration']['value']
+            #['value'] gives time in seconds,
             # 'text' gives a string in an appriopriate measure (minutes, hours, etc)
             #print('Going from {} to {}.'.format(orig_name,dest_name))
             print('Takes {} to travel {}'.format(duration[ii,jj],distance[ii,jj]))
-        
 
-#%%       
+
+#%%
 '''
 # if I were to call the url it would be:
 'https://maps.googleapis.com/maps/api/distancematrix/json?'
@@ -166,15 +169,15 @@ for ii,iorig in enumerate(origins):
                     'Melbourne%%2C+Australia%%7CAdelaide%%2C+Australia%%7C'
                     'Brisbane%%2C+Australia%%7CDarwin%%2C+Australia%%7CHobart%%2C+'
                     'Australia%%7CCanberra%%2C+Australia'
-                    
+
                     '&language=en-GB&'
-                    
+
                     'avoid=tolls&mode=transit&key={KEY}&units=metric&'
 
                     'destinations=Uluru%%2C+Australia%%7CKakadu%%2C+Australia%%7C'
                     'Blue+Mountains%%2C+Australia%%7CBungle+Bungles%%2C+Australia'
                     '%%7CThe+Pinnacles%%2C+Australia'
-                    
+
                     &departure_time=%d'
 
 '''
@@ -182,11 +185,9 @@ for ii,iorig in enumerate(origins):
 with open('res_from_google_api1.pickle','wb') as f:
     pickle.dump((directions_result,matrix),f)
 
-# TODO: pickling doesn't work, I think there is a non-standard class hidden 
+# TODO: pickling doesn't work, I think there is a non-standard class hidden
 # somewhere, might need to convert to standard python formats first
 
 #%%
 with open('res_from_google_api1.pickle','rb') as f:
     a = pickle.load(f)
-
-
