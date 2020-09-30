@@ -18,20 +18,28 @@ from descartes import PolygonPatch
 from shapely.ops import transform
 
 
-# This function is used to plot a map of the LSOAs in a TTWA colour-coded based on variables of interest
-# It takes a dataframe (i.e. data) with the relevant values and a column with the TTWA codes (whose name can be
-# passed as the ttwa_code argument), the column to plot, the colour scheme and the min and max.
-# Other parameters: gb_filename: shape file with GB boundaries or whatever large region we want to plot
-# ni_filename = shape file with NI boundaries
-# shp_filename: shape file with boundaries of the areas I'm interested in plotting (eg. TTWA, or LSOA)
-# Example: draw(growth, 'Growth', 'viridis', np.min(growth['Growth']), np.max(growth['Growth']))
-# Note: it might be better to pass the shape/map files as explicit argument (right now, it just uses them assuming
-# they are in the main workspace I think)
 
 def draw_map(data, col, color_scheme, data_min, data_max, gb_filename, ni_filename,
              shp_filename, subset_outlines = None,
              roi_col = 'TTWA code', shp_col = 'ttwa11cd', params = {'SAVEFIG': False},
              fig = None, ax = None):
+    '''This function is used to plot a map of the LSOAs in a TTWA colour-coded
+    based on variables of interest.
+    It takes a dataframe (i.e. data) with the relevant values and a column
+        with the TTWA codes (whose name can be passed as the ttwa_code argument),
+        the column to plot, the colour scheme and the min and max.
+     Other parameters:
+     gb_filename: shape file with GB boundaries or whatever
+     large region we want to plot
+     ni_filename = shape file with NI boundaries
+     shp_filename: shape file with boundaries of the areas I'm interested in
+        plotting (eg. TTWA, or LSOA)
+     Example: draw(growth, 'Growth', 'viridis', np.min(growth['Growth']),
+        np.max(growth['Growth']))
+
+     Note: it might be better to pass the shape/map files as explicit argument
+     (right now, it just uses them assuming they are in the main workspace I think)
+     '''
 
     if not (fig or ax):
         # if no figure or ax has been provided, then create one
