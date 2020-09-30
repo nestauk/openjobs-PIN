@@ -1,0 +1,12 @@
+requests==2.22.0
+Shapely==1.6.2.post1
+descartes==1.1.0
+fiona==1.8.17
+geopy==2.0.0
+googlemaps==4.4.2
+matplotlib==3.3.2
+numpy==1.19.2
+pandas==1.1.2
+pyproj==2.6.1.post1
+rpy2==3.3.5
+seaborn==0.11.0
