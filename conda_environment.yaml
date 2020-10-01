@@ -1,0 +1,41 @@
+name: transport
+channels:
+  - plotly
+  - defaults
+  - conda-forge
+dependencies:
+  - dask
+  - fiona
+  - folium
+  - fuzzywuzzy
+  - geojson
+  - ipython
+  - jupyter
+  - matplotlib
+  - more-itertools
+  - nltk
+  - numpy
+  - pandas
+  - pip
+  - python=3.6
+  - scikit-learn
+  - scipy
+  - seaborn
+  - shapely
+  - spyder-kernels
+  - sqlite
+  - statsmodels
+  - tqdm
+  - xlrd
+  - yaml
+  - pip:
+    - descartes
+    - geopy
+    - googlemaps
+    - plotly
+    - pyproj
+    - pytest
+    - requests
+    - rpy2
+    - urllib3
+#prefix: /Users/stefgarasto/miniconda3/envs/mapping
