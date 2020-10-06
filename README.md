@@ -37,6 +37,14 @@ My own notes on the process can be found <a href="https://docs.google.com/docume
 
 Along the way, there will be the need to install/download many other resources, such as <a href="https://github.com/planarnetwork/dtd2mysql">dtd2mysql</a>.
 
+4. <b>Download geography-related datasets </b> from the Open Geography Portal:
+<ol>
+<li> List of postcode with centroids (can be downloaded from <a href"https://geoportal.statistics.gov.uk/datasets/ons-postcode-directory-latest-centroids">here</a>). </li>
+<li> LSOA2011 Boundaries (can be downloaded from <a href"https://geoportal.statistics.gov.uk/datasets/lower-layer-super-output-areas-december-2011-boundaries-ew-bfc">here</a>) </li>
+</ol>
+
+Other files are already included in the directory under <code>data/Map-files</code>, but these were too big.
+
 # Workflow
 
 Get information from LMI for ALL. Have not uploaded mine because it can not be cached.
