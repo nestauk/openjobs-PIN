@@ -1,0 +1,5 @@
+Overall, Shrewsbury has an ease of commute score nb. 1 of 0.529
+Overall, Shrewsbury has a normalised ease of commute score nb. 1 of 0.524
+Overall, Shrewsbury has an ease of commute score nb. 2 of 52.5%. That is, this is the percentage of jobs that can be reached by at least 50% of the population within the time constraint
+The maximum percentage of population that can access all jobs within the threshold is 27.96%
+The minimum population percentage for which the percentage of accessible jobs is lower than 50% is 66.76%

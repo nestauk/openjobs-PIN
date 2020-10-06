@@ -33,6 +33,17 @@ Resources and instructions on how to do it can be found on these Github reposito
 <li> https://github.com/datasciencecampus/proper </li>
 <li> https://github.com/datasciencecampus/graphite </li>
 
+My own notes on the process can be found <a href="https://docs.google.com/document/d/1i49L1tUjrUdXOATcxlYnvdChUXTQiTfjeBGCMoQ_RCs/edit?usp=sharing">here</a>.
+
 Along the way, there will be the need to install/download many other resources, such as <a href="https://github.com/planarnetwork/dtd2mysql">dtd2mysql</a>.
 
 # Workflow
+
+Get information from LMI for ALL. Have not uploaded mine because it can not be cached.
+
+# Further information
+All notes can be found <a href="https://drive.google.com/drive/folders/1bzfw-BjZ7KI8tSUjbGck0w_-0s2rgFaP?usp=sharing">here</a>.
+
+Outputs can be found <a href="https://drive.google.com/drive/folders/1G8XdBoeqFmuLYVqarNgtCJ9zC1NCxA6o?usp=sharing">here</a>.
+
+Copies of (some of) the plots produced can be found <a href="https://drive.google.com/drive/folders/1DJAJ_kNalMXaWqE2wJblP4XnSm8hyerx?usp=sharing">here</a>.
