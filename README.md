@@ -28,20 +28,21 @@ Note that the environment will be called "transport". If you want to give it a d
 
 3. <b> Install a local instance of Open Trip Planner and PropeR. </b>
 Resources and instructions on how to do it can be found on these Github repositories by the ONS Data Science Campus:
-<ol>
+<ul>
 <li> https://github.com/datasciencecampus/access-to-services </li>
 <li> https://github.com/datasciencecampus/proper </li>
 <li> https://github.com/datasciencecampus/graphite </li>
+</ul>
 
 My own notes on the process can be found <a href="https://docs.google.com/document/d/1i49L1tUjrUdXOATcxlYnvdChUXTQiTfjeBGCMoQ_RCs/edit?usp=sharing">here</a>.
 
 Along the way, there will be the need to install/download many other resources, such as <a href="https://github.com/planarnetwork/dtd2mysql">dtd2mysql</a>.
 
 4. <b>Download geography-related datasets </b> from the Open Geography Portal:
-<ol>
+<ul>
 <li> List of postcode with centroids (can be downloaded from <a href"https://geoportal.statistics.gov.uk/datasets/ons-postcode-directory-latest-centroids">here</a>). </li>
 <li> LSOA2011 Boundaries (can be downloaded from <a href"https://geoportal.statistics.gov.uk/datasets/lower-layer-super-output-areas-december-2011-boundaries-ew-bfc">here</a>) </li>
-</ol>
+</ul>
 
 Other files are already included in the directory under <code>data/Map-files</code>, but these were too big.
 
