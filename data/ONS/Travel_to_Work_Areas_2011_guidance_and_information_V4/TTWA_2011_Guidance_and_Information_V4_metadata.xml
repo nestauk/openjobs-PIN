@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<gmd:fileIdentifier>
+		<gco:CharacterString>{30D91028-003B-4F05-946A-A84F4BC193F5}</gco:CharacterString>
+	</gmd:fileIdentifier>
+	<gmd:language>
+		<gmd:LanguageCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#LanguageCode" codeListValue="eng">eng</gmd:LanguageCode>
+	</gmd:language>
+	<gmd:hierarchyLevel>
+		<gmd:MD_ScopeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+	</gmd:hierarchyLevel>
+	<gmd:contact>
+		<gmd:CI_ResponsibleParty>
+			<gmd:organisationName>
+				<gco:CharacterString>Office for National Statistics</gco:CharacterString>
+			</gmd:organisationName>
+			<gmd:contactInfo>
+				<gmd:CI_Contact>
+					<gmd:address>
+						<gmd:CI_Address>
+							<gmd:electronicMailAddress>
+								<gco:CharacterString>ons.geography@ons.gsi.gov.uk</gco:CharacterString>
+							</gmd:electronicMailAddress>
+						</gmd:CI_Address>
+					</gmd:address>
+				</gmd:CI_Contact>
+			</gmd:contactInfo>
+			<gmd:role>
+				<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+			</gmd:role>
+		</gmd:CI_ResponsibleParty>
+	</gmd:contact>
+	<gmd:dateStamp>
+		<gco:Date>2015-11-24</gco:Date>
+	</gmd:dateStamp>
+	<gmd:metadataStandardName>
+		<gco:CharacterString>UK GEMINI</gco:CharacterString>
+	</gmd:metadataStandardName>
+	<gmd:metadataStandardVersion>
+		<gco:CharacterString>2.1</gco:CharacterString>
+	</gmd:metadataStandardVersion>
+	<gmd:referenceSystemInfo>
+		<gmd:MD_ReferenceSystem>
+			<gmd:referenceSystemIdentifier>
+				<gmd:RS_Identifier>
+					<gmd:code>
+						<gco:CharacterString>27700</gco:CharacterString>
+					</gmd:code>
+				</gmd:RS_Identifier>
+			</gmd:referenceSystemIdentifier>
+		</gmd:MD_ReferenceSystem>
+	</gmd:referenceSystemInfo>
+	<gmd:identificationInfo>
+		<gmd:MD_DataIdentification>
+			<gmd:citation>
+				<gmd:CI_Citation>
+					<gmd:title>
+						<gco:CharacterString>Travel to Work Areas (UK) 2011 guidance and information V4</gco:CharacterString>
+					</gmd:title>
+					<gmd:alternateTitle>
+						<gco:CharacterString>TTWA (UK) 2011 guidance and information V4</gco:CharacterString>
+					</gmd:alternateTitle>
+					<gmd:date>
+						<gmd:CI_Date>
+							<gmd:date>
+								<gco:Date>2011-12-31</gco:Date>
+							</gmd:date>
+							<gmd:dateType>
+								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+							</gmd:dateType>
+						</gmd:CI_Date>
+					</gmd:date>
+					<gmd:identifier>
+						<gmd:MD_Identifier>
+							<gmd:code>
+								<gco:CharacterString>{272EEA33-9C61-4965-83AF-72DE27AC31A7}</gco:CharacterString>
+							</gmd:code>
+						</gmd:MD_Identifier>
+					</gmd:identifier>
+				</gmd:CI_Citation>
+			</gmd:citation>
+			<gmd:abstract>
+				<gco:CharacterString>This file contains the guidance and information relating to the travel to work areas (TTWA) in the UK as at 2011. This includes the methodology and introduction to TTWAs that can be used in conjunction with the boundaries, names and codes and lookup files. This version (V4) reflects the revisions made to a small number of TTWA codes following the original release on 19 August 2015 and further changes (reflecting Presentation Order Guidance, land area measurements being added and change to a TTWA name (Eilean Siar to Western Isles)) made to the &apos;summary statistics&apos; file in October 2015.</gco:CharacterString>
+			</gmd:abstract>
+			<gmd:pointOfContact>
+				<gmd:CI_ResponsibleParty>
+					<gmd:individualName>
+						<gco:CharacterString>ONS Geography Customer Services</gco:CharacterString>
+					</gmd:individualName>
+					<gmd:organisationName>
+						<gco:CharacterString>Office for National Statistics</gco:CharacterString>
+					</gmd:organisationName>
+					<gmd:contactInfo>
+						<gmd:CI_Contact>
+							<gmd:phone>
+								<gmd:CI_Telephone>
+									<gmd:voice>
+										<gco:CharacterString>+44 (0)1329 444971</gco:CharacterString>
+									</gmd:voice>
+								</gmd:CI_Telephone>
+							</gmd:phone>
+							<gmd:address>
+								<gmd:CI_Address>
+									<gmd:deliveryPoint>
+										<gco:CharacterString>Segensworth Road, Titchfield</gco:CharacterString>
+									</gmd:deliveryPoint>
+									<gmd:city>
+										<gco:CharacterString>Fareham</gco:CharacterString>
+									</gmd:city>
+									<gmd:administrativeArea>
+										<gco:CharacterString>Hampshire</gco:CharacterString>
+									</gmd:administrativeArea>
+									<gmd:postalCode>
+										<gco:CharacterString>PO15 5RR</gco:CharacterString>
+									</gmd:postalCode>
+									<gmd:country>
+										<gco:CharacterString>United Kingdom</gco:CharacterString>
+									</gmd:country>
+									<gmd:electronicMailAddress>
+										<gco:CharacterString>ons.geography@ons.gsi.gov.uk</gco:CharacterString>
+									</gmd:electronicMailAddress>
+								</gmd:CI_Address>
+							</gmd:address>
+							<gmd:onlineResource>
+								<gmd:CI_OnlineResource>
+									<gmd:linkage>
+										<gmd:URL>https://geoportal.statistics.gov.uk/Docs/Travel_to_Work_Areas_2011_guidance_and_information_V4.zip</gmd:URL>
+									</gmd:linkage>
+								</gmd:CI_OnlineResource>
+							</gmd:onlineResource>
+						</gmd:CI_Contact>
+					</gmd:contactInfo>
+					<gmd:role>
+						<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+					</gmd:role>
+				</gmd:CI_ResponsibleParty>
+			</gmd:pointOfContact>
+			<gmd:resourceMaintenance>
+				<gmd:MD_MaintenanceInformation>
+					<gmd:maintenanceAndUpdateFrequency>
+						<gmd:MD_MaintenanceFrequencyCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+					</gmd:maintenanceAndUpdateFrequency>
+				</gmd:MD_MaintenanceInformation>
+			</gmd:resourceMaintenance>
+			<gmd:descriptiveKeywords>
+				<gmd:MD_Keywords>
+					<gmd:keyword>
+						<gco:CharacterString>Geography</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:thesaurusName>
+						<gmd:CI_Citation>
+							<gmd:title>
+								<gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+							</gmd:title>
+							<gmd:date>
+								<gmd:CI_Date>
+									<gmd:date>
+										<gco:Date>2008-06-01</gco:Date>
+									</gmd:date>
+									<gmd:dateType>
+										<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+									</gmd:dateType>
+								</gmd:CI_Date>
+							</gmd:date>
+						</gmd:CI_Citation>
+					</gmd:thesaurusName>
+				</gmd:MD_Keywords>
+			</gmd:descriptiveKeywords>
+			<gmd:descriptiveKeywords>
+				<gmd:MD_Keywords>
+					<gmd:keyword>
+						<gco:CharacterString>Statistical units</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>Geographical names</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:thesaurusName>
+						<gmd:CI_Citation>
+							<gmd:title>
+								<gco:CharacterString>GEMET - Concepts, version 2.4</gco:CharacterString>
+							</gmd:title>
+							<gmd:date>
+								<gmd:CI_Date>
+									<gmd:date>
+										<gco:Date>2010-01-13</gco:Date>
+									</gmd:date>
+									<gmd:dateType>
+										<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+									</gmd:dateType>
+								</gmd:CI_Date>
+							</gmd:date>
+						</gmd:CI_Citation>
+					</gmd:thesaurusName>
+				</gmd:MD_Keywords>
+			</gmd:descriptiveKeywords>
+			<gmd:descriptiveKeywords>
+				<gmd:MD_Keywords>
+					<gmd:keyword>
+						<gco:CharacterString>Travel to work area</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>TTWA</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>United Kingdom</gco:CharacterString>
+					</gmd:keyword>
+					<gmd:keyword>
+						<gco:CharacterString>UK</gco:CharacterString>
+					</gmd:keyword>
+				</gmd:MD_Keywords>
+			</gmd:descriptiveKeywords>
+			<gmd:resourceConstraints>
+				<gmd:MD_Constraints>
+					<gmd:useLimitation>
+						<gco:CharacterString>Licence, http://www.nationalarchives.gov.uk/doc/open-government-licence/, Contains National Statistics data © Crown copyright and database right [2015]</gco:CharacterString>
+					</gmd:useLimitation>
+				</gmd:MD_Constraints>
+			</gmd:resourceConstraints>
+			<gmd:resourceConstraints>
+				<gmd:MD_LegalConstraints>
+					<gmd:accessConstraints>
+						<gmd:MD_RestrictionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+					</gmd:accessConstraints>
+					<gmd:otherConstraints>
+						<gco:CharacterString>Other restrictions</gco:CharacterString>
+					</gmd:otherConstraints>
+				</gmd:MD_LegalConstraints>
+			</gmd:resourceConstraints>
+			<gmd:language>
+				<gmd:LanguageCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#LanguageCode" codeListValue="eng">eng</gmd:LanguageCode>
+			</gmd:language>
+			<gmd:topicCategory>
+				<gmd:MD_TopicCategoryCode>boundaries</gmd:MD_TopicCategoryCode>
+			</gmd:topicCategory>
+			<gmd:extent>
+				<gmd:EX_Extent>
+					<gmd:geographicElement>
+						<gmd:EX_GeographicBoundingBox>
+							<gmd:westBoundLongitude>
+								<gco:Decimal>-8.8114</gco:Decimal>
+							</gmd:westBoundLongitude>
+							<gmd:eastBoundLongitude>
+								<gco:Decimal>4.2795</gco:Decimal>
+							</gmd:eastBoundLongitude>
+							<gmd:southBoundLatitude>
+								<gco:Decimal>48.8017</gco:Decimal>
+							</gmd:southBoundLatitude>
+							<gmd:northBoundLatitude>
+								<gco:Decimal>63.3244</gco:Decimal>
+							</gmd:northBoundLatitude>
+						</gmd:EX_GeographicBoundingBox>
+					</gmd:geographicElement>
+					<gmd:temporalElement>
+						<gmd:EX_TemporalExtent>
+							<gmd:extent>
+								<gml:TimePeriod gml:id="Temporal">
+									<gml:beginPosition>2011-12-31</gml:beginPosition>
+									<gml:endPosition>2011-12-31</gml:endPosition>
+								</gml:TimePeriod>
+							</gmd:extent>
+						</gmd:EX_TemporalExtent>
+					</gmd:temporalElement>
+				</gmd:EX_Extent>
+			</gmd:extent>
+		</gmd:MD_DataIdentification>
+	</gmd:identificationInfo>
+	<gmd:distributionInfo>
+		<gmd:MD_Distribution>
+			<gmd:distributionFormat>
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>ArcGIS</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString>10.1</gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:transferOptions>
+				<gmd:MD_DigitalTransferOptions>
+					<gmd:onLine>
+						<gmd:CI_OnlineResource>
+							<gmd:linkage>
+								<gmd:URL>https://geoportal.statistics.gov.uk/Docs/Travel_to_Work_Areas_2011_guidance_and_information_V4.zip</gmd:URL>
+							</gmd:linkage>
+							<gmd:function>
+								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+							</gmd:function>
+						</gmd:CI_OnlineResource>
+					</gmd:onLine>
+					<gmd:onLine>
+						<gmd:CI_OnlineResource>
+							<gmd:linkage>
+								<gmd:URL>http://www.ons.gov.uk/ons/guide-method/geography/products/names--codes-and-look-ups/code-history-database/index.html</gmd:URL>
+							</gmd:linkage>
+							<gmd:function>
+								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+							</gmd:function>
+						</gmd:CI_OnlineResource>
+					</gmd:onLine>
+					<gmd:onLine>
+						<gmd:CI_OnlineResource>
+							<gmd:linkage>
+								<gmd:URL>http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/other/index.html</gmd:URL>
+							</gmd:linkage>
+							<gmd:function>
+								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+							</gmd:function>
+						</gmd:CI_OnlineResource>
+					</gmd:onLine>
+				</gmd:MD_DigitalTransferOptions>
+			</gmd:transferOptions>
+		</gmd:MD_Distribution>
+	</gmd:distributionInfo>
+	<gmd:dataQualityInfo>
+		<gmd:DQ_DataQuality>
+			<gmd:scope>
+				<gmd:DQ_Scope>
+					<gmd:level>
+						<gmd:MD_ScopeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+					</gmd:level>
+				</gmd:DQ_Scope>
+			</gmd:scope>
+			<gmd:report>
+				<gmd:DQ_DomainConsistency>
+					<gmd:result>
+						<gmd:DQ_ConformanceResult>
+							<gmd:specification>
+								<gmd:CI_Citation>
+									<gmd:title>
+										<gco:CharacterString>COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gco:CharacterString>
+									</gmd:title>
+									<gmd:date>
+										<gmd:CI_Date>
+											<gmd:date>
+												<gco:Date>2010-12-08</gco:Date>
+											</gmd:date>
+											<gmd:dateType>
+												<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+											</gmd:dateType>
+										</gmd:CI_Date>
+									</gmd:date>
+								</gmd:CI_Citation>
+							</gmd:specification>
+							<gmd:explanation>
+								<gco:CharacterString>http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:323:0011:0102:EN:PDF</gco:CharacterString>
+							</gmd:explanation>
+							<gmd:pass>
+								<gco:Boolean>true</gco:Boolean>
+							</gmd:pass>
+						</gmd:DQ_ConformanceResult>
+					</gmd:result>
+				</gmd:DQ_DomainConsistency>
+			</gmd:report>
+			<gmd:lineage>
+				<gmd:LI_Lineage>
+					<gmd:statement>
+						<gco:CharacterString>The guidance and information files contained within the zip file were created by ONS.</gco:CharacterString>
+					</gmd:statement>
+				</gmd:LI_Lineage>
+			</gmd:lineage>
+		</gmd:DQ_DataQuality>
+	</gmd:dataQualityInfo>
+</gmd:MD_Metadata>
+

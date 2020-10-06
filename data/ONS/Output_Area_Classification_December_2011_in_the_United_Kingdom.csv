@@ -1,0 +1,77 @@
+﻿Supergroup,Group_,Subgroup,ObjectId
+1: Rural residents,1A: Farming communities,1A1: Rural workers and families,1
+1: Rural residents,1A: Farming communities,1A2: Established farming communities,2
+1: Rural residents,1A: Farming communities,1A3: Agricultural communities,3
+1: Rural residents,1A: Farming communities,1A4: Older farming communities,4
+1: Rural residents,1B: Rural tenants,1B1: Rural life,5
+1: Rural residents,1B: Rural tenants,1B2: Rural white-collar workers,6
+1: Rural residents,1B: Rural tenants,1B3: Ageing rural flat tenants,7
+1: Rural residents,1C: Ageing rural dwellers,1C1: Rural employment and retirees,8
+1: Rural residents,1C: Ageing rural dwellers,1C2: Renting rural retirement,9
+1: Rural residents,1C: Ageing rural dwellers,1C3: Detached rural retirement,10
+2: Cosmopolitans,2A: Students around campus,2A1: Student communal living,11
+2: Cosmopolitans,2A: Students around campus,2A2: Student digs,12
+2: Cosmopolitans,2A: Students around campus,2A3: Students and professionals,13
+2: Cosmopolitans,2B: Inner city students,2B1: Students and commuters,14
+2: Cosmopolitans,2B: Inner city students,2B2: Multicultural student neighbourhood,15
+2: Cosmopolitans,2C: Comfortable cosmopolitan,2C1: Migrant families,16
+2: Cosmopolitans,2C: Comfortable cosmopolitan,2C2: Migrant commuters,17
+2: Cosmopolitans,2C: Comfortable cosmopolitan,2C3: Professional service cosmopolitans,18
+2: Cosmopolitans,2D: Aspiring and affluent,2D1: Urban cultural mix,19
+2: Cosmopolitans,2D: Aspiring and affluent,2D2: Highly-qualified quaternary workers,20
+2: Cosmopolitans,2D: Aspiring and affluent,2D3: EU white-collar workers,21
+3: Ethnicity central,3A: Ethnic family life,3A1: Established renting families,22
+3: Ethnicity central,3A: Ethnic family life,3A2: Young families and students,23
+3: Ethnicity central,3B: Endeavouring Ethnic Mix,3B1: Striving service workers,24
+3: Ethnicity central,3B: Endeavouring Ethnic Mix,3B2: Bangladeshi mixed employment,25
+3: Ethnicity central,3B: Endeavouring Ethnic Mix,3B3: Multi-ethnic professional service workers,26
+3: Ethnicity central,3C: Ethnic dynamics,3C1: Constrained neighbourhoods,27
+3: Ethnicity central,3C: Ethnic dynamics,3C2: Constrained commuters,28
+3: Ethnicity central,3D: Aspirational techies,3D1: New EU tech workers,29
+3: Ethnicity central,3D: Aspirational techies,3D2: Established tech workers,30
+3: Ethnicity central,3D: Aspirational techies,3D3: Old EU tech workers,31
+4: Multicultural metropolitans,4A: Rented family living,4A1: Social renting young families,32
+4: Multicultural metropolitans,4A: Rented family living,4A2: Private renting new arrivals,33
+4: Multicultural metropolitans,4A: Rented family living,4A3: Commuters with young families,34
+4: Multicultural metropolitans,4B: Challenged Asian terraces,4B1: Asian terraces and flats,35
+4: Multicultural metropolitans,4B: Challenged Asian terraces,4B2: Pakistani communities,36
+4: Multicultural metropolitans,4C: Asian traits,4C1: Achieving minorities,37
+4: Multicultural metropolitans,4C: Asian traits,4C2: Multicultural new arrivals,38
+4: Multicultural metropolitans,4C: Asian traits,4C3: Inner city ethnic mix,39
+5: Urbanites,5A: Urban professionals and families,5A1: White professionals,40
+5: Urbanites,5A: Urban professionals and families,5A2: Multi-ethnic professionals with families,41
+5: Urbanites,5A: Urban professionals and families,5A3: Families in terraces and flats,42
+5: Urbanites,5B: Ageing urban living,5B1: Delayed retirement,43
+5: Urbanites,5B: Ageing urban living,5B2: Communal retirement,44
+5: Urbanites,5B: Ageing urban living,5B3: Self-sufficient retirement,45
+6: Suburbanites,6A: Suburban achievers,6A1: Indian tech achievers,46
+6: Suburbanites,6A: Suburban achievers,6A2: Comfortable suburbia,47
+6: Suburbanites,6A: Suburban achievers,6A3: Detached retirement living,48
+6: Suburbanites,6A: Suburban achievers,6A4: Ageing in suburbia,49
+6: Suburbanites,6B: Semi-detached suburbia,6B1: Multi-ethnic suburbia,50
+6: Suburbanites,6B: Semi-detached suburbia,6B2: White suburban communities,51
+6: Suburbanites,6B: Semi-detached suburbia,6B3: Semi-detached ageing,52
+6: Suburbanites,6B: Semi-detached suburbia,6B4: Older workers and retirement,53
+7: Constrained city dwellers,7A: Challenged diversity,7A1: Transitional Eastern European neighbourhood,54
+7: Constrained city dwellers,7A: Challenged diversity,7A2: Hampered aspiration,55
+7: Constrained city dwellers,7A: Challenged diversity,7A3: Multi-ethnic hardship,56
+7: Constrained city dwellers,7B: Constrained flat dwellers,7B1: Eastern European communities,57
+7: Constrained city dwellers,7B: Constrained flat dwellers,7B2: Deprived neighbourhoods,58
+7: Constrained city dwellers,7B: Constrained flat dwellers,7B3: Endeavouring flat dwellers,59
+7: Constrained city dwellers,7C: White communities,7C1: Challenged transitionaries,60
+7: Constrained city dwellers,7C: White communities,7C2: Constrained young families,61
+7: Constrained city dwellers,7C: White communities,7C3: Outer city hardship,62
+7: Constrained city dwellers,7D: Ageing city dwellers,7D1: Ageing communities and families,63
+7: Constrained city dwellers,7D: Ageing city dwellers,7D2: Retired independent city dwellers,64
+7: Constrained city dwellers,7D: Ageing city dwellers,7D3: Retired communal city dwellers,65
+7: Constrained city dwellers,7D: Ageing city dwellers,7D4: Retired city hardship,66
+8: Hard-pressed living,8A: Industrious communities,8A1: Industrious transitions,67
+8: Hard-pressed living,8A: Industrious communities,8A2: Industrious hardship,68
+8: Hard-pressed living,8B: Challenged terraced workers,8B1: Deprived blue-collar terraces,69
+8: Hard-pressed living,8B: Challenged terraced workers,8B2: Hard pressed rented terraces,70
+8: Hard-pressed living,8C: Hard pressed ageing workers,8C1: Ageing industrious workers,71
+8: Hard-pressed living,8C: Hard pressed ageing workers,8C2: Ageing rural industry workers,72
+8: Hard-pressed living,8C: Hard pressed ageing workers,8C3: Renting hard-pressed workers,73
+8: Hard-pressed living,8D: Migration and churn,8D1: Young hard-pressed families,74
+8: Hard-pressed living,8D: Migration and churn,8D2: Hard-pressed ethnic mix,75
+8: Hard-pressed living,8D: Migration and churn,8D3: Hard-Pressed European Settlers,76

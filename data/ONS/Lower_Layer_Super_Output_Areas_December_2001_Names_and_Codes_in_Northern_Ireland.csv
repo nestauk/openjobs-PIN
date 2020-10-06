@@ -1,0 +1,891 @@
+﻿LSOAN05CD,LSOAN05NM,FID
+95AA01S1,Aldergrove 1,1
+95AA01S2,Aldergrove 2,2
+95AA01S3,Aldergrove 3,3
+95AA02W1,Balloo,4
+95AA03W1,Ballycraigy,5
+95AA04W1,Clady,6
+95AA05W1,Cranfield,7
+95AA06S1,Crumlin 1 Antrim,8
+95AA06S2,Crumlin 2 Antrim,9
+95AA07W1,Drumanaway,10
+95AA08W1,Farranshane,11
+95AA09W1,Fountain Hill,12
+95AA10W1,Greystone Antrim,13
+95AA11S1,Massereene 1,14
+95AA11S2,Massereene 2,15
+95AA12W1,Parkgate,16
+95AA13S1,Randalstown 1,17
+95AA13S2,Randalstown 2,18
+95AA14W1,Shilvodan,19
+95AA15S1,Springfarm 1,20
+95AA15S2,Springfarm 2,21
+95AA16W1,Steeple,22
+95AA17W1,Stiles,23
+95AA18W1,Templepatrick,24
+95AA19W1,Toome,25
+95BB01S1,Ballygowan 1,26
+95BB01S2,Ballygowan 2,27
+95BB02W1,Ballyrainey,28
+95BB03S1,Ballywalter 1,29
+95BB03S2,Ballywalter 2,30
+95BB04S1,Bradshaw's Brae 1,31
+95BB04S2,Bradshaw's Brae 2,32
+95BB05S1,Carrowdore 1,33
+95BB05S2,Carrowdore 2,34
+95BB06W1,Central Ards,35
+95BB07S1,Comber East 1,36
+95BB07S2,Comber East 2,37
+95BB08S1,Comber North 1,38
+95BB08S2,Comber North 2,39
+95BB09S1,Comber West 1,40
+95BB09S2,Comber West 2,41
+95BB10S1,Donaghadee North 1,42
+95BB10S2,Donaghadee North 2,43
+95BB11S1,Donaghadee South 1,44
+95BB11S2,Donaghadee South 2,45
+95BB12S1,Glen 1,46
+95BB12S2,Glen 2,47
+95BB13S1,Gregstown 1,48
+95BB13S2,Gregstown 2,49
+95BB13S3,Gregstown 3,50
+95BB14S1,Killinchy 1,51
+95BB14S2,Killinchy 2,52
+95BB15S1,Kircubbin 1,53
+95BB15S2,Kircubbin 2,54
+95BB16S1,Lisbane 1,55
+95BB16S2,Lisbane 2,56
+95BB17S1,Loughries 1,57
+95BB17S2,Loughries 2,58
+95BB18S1,Millisle 1,59
+95BB18S2,Millisle 2,60
+95BB19S1,Movilla 1,61
+95BB19S2,Movilla 2,62
+95BB19S3,Movilla 3,63
+95BB20S1,Portaferry 1,64
+95BB20S2,Portaferry 2,65
+95BB21S1,Portavogie 1,66
+95BB21S2,Portavogie 2,67
+95BB22S1,Scrabo 1,68
+95BB22S2,Scrabo 2,69
+95BB23S1,Whitespots 1,70
+95BB23S2,Whitespots 2,71
+95CC01W1,Abbey Park,72
+95CC02W1,Ballymartrim,73
+95CC03W1,Callan Bridge,74
+95CC04W1,Carrigatuke,75
+95CC05W1,Charlemont,76
+95CC06S1,Demesne 1,77
+95CC06S2,Demesne 2,78
+95CC07W1,Derrynoose,79
+95CC08W1,Downs,80
+95CC09S1,Hamiltonsbawn 1,81
+95CC09S2,Hamiltonsbawn 2,82
+95CC10W1,Hockley,83
+95CC11W1,Keady,84
+95CC12W1,Killeen,85
+95CC13W1,Killylea,86
+95CC14W1,Laurelvale,87
+95CC15W1,Loughgall,88
+95CC16W1,Markethill,89
+95CC17W1,Milford,90
+95CC18W1,Observatory,91
+95CC19W1,Poyntz Pass,92
+95CC20S1,Rich Hill 1,93
+95CC20S2,Rich Hill 2,94
+95CC21W1,Tandragee,95
+95CC22W1,The Mall,96
+95DD01W1,Academy,97
+95DD02S1,Ahoghill 1,98
+95DD02S2,Ahoghill 2,99
+95DD03W1,Ardeevin,100
+95GG14S1,Cavehill 1,101
+95GG14S2,Cavehill 2,102
+95GG14S3,Cavehill 3,103
+95GG15S1,Cherryvalley 1,104
+95GG15S2,Cherryvalley 2,105
+95GG15S3,Cherryvalley 3,106
+95GG16S1,Chichester Park 1,107
+95GG16S2,Chichester Park 2,108
+95GG16S3,Chichester Park 3,109
+95GG17S1,Cliftonville 1,110
+95GG17S2,Cliftonville 2,111
+95GG17S3,Cliftonville 3,112
+95GG18S1,Clonard 1,113
+95GG18S2,Clonard 2,114
+95GG19S1,Crumlin 1 Belfast,115
+95GG19S2,Crumlin 2 Belfast,116
+95GG20S1,Duncairn 1,117
+95GG20S2,Duncairn 2,118
+95GG21S1,Falls 1,119
+95GG21S2,Falls 2,120
+95GG21S3,Falls 3,121
+95GG22S1,Falls Park 1,122
+95GG22S2,Falls Park 2,123
+95GG22S3,Falls Park 3,124
+95GG23S1,Finaghy 1,125
+95GG23S2,Finaghy 2,126
+95GG23S3,Finaghy 3,127
+95GG24S1,Fortwilliam 1,128
+95GG24S2,Fortwilliam 2,129
+95GG24S3,Fortwilliam 3,130
+95GG25S1,Glen Road 1,131
+95GG25S2,Glen Road 2,132
+95GG25S3,Glen Road 3,133
+95GG26S1,Glencairn 1,134
+95GG26S2,Glencairn 2,135
+95GG27S1,Glencolin 1,136
+95GG27S2,Glencolin 2,137
+95GG27S3,Glencolin 3,138
+95GG27S4,Glencolin 4,139
+95GG28S1,Highfield 1,140
+95GG28S2,Highfield 2,141
+95GG28S3,Highfield 3,142
+95GG29S1,Island 1,143
+95GG29S2,Island 2,144
+95GG30S1,Knock 1,145
+95GG30S2,Knock 2,146
+95GG30S3,Knock 3,147
+95GG31S1,Ladybrook 1,148
+95GG31S2,Ladybrook 2,149
+95GG31S3,Ladybrook 3,150
+95GG32S1,Legoniel 1,151
+95GG32S2,Legoniel 2,152
+95GG32S3,Legoniel 3,153
+95GG33S1,Malone 1,154
+95GG33S2,Malone 2,155
+95GG33S3,Malone 3,156
+95GG34S1,Musgrave 1,157
+95GG34S2,Musgrave 2,158
+95GG34S3,Musgrave 3,159
+95GG35S1,New Lodge 1,160
+95GG35S2,New Lodge 2,161
+95GG35S3,New Lodge 3,162
+95GG36S1,Orangefield 1,163
+95GG36S2,Orangefield 2,164
+95GG36S3,Orangefield 3,165
+95GG37S1,Ravenhill 1,166
+95GG37S2,Ravenhill 2,167
+95GG37S3,Ravenhill 3,168
+95GG38S1,Rosetta 1,169
+95GG38S2,Rosetta 2,170
+95GG38S3,Rosetta 3,171
+95GG39S1,Shaftesbury 1,172
+95GG39S2,Shaftesbury 2,173
+95GG39S3,Shaftesbury 3,174
+95GG40S1,Shankill 1,175
+95GG40S2,Shankill 2,176
+95GG41S1,Stormont 1,177
+95GG41S2,Stormont 2,178
+95GG41S3,Stormont 3,179
+95GG42S1,Stranmillis 1,180
+95GG42S2,Stranmillis 2,181
+95GG42S3,Stranmillis 3,182
+95GG42S4,Stranmillis 4,183
+95GG43S1,Sydenham 1,184
+95GG43S2,Sydenham 2,185
+95GG43S3,Sydenham 3,186
+95GG44S1,The Mount 1,187
+95GG44S2,The Mount 2,188
+95GG45S1,Upper Malone 1,189
+95GG45S2,Upper Malone 2,190
+95GG45S3,Upper Malone 3,191
+95GG46S1,Upper Springfield 1,192
+95GG46S2,Upper Springfield 2,193
+95GG46S3,Upper Springfield 3,194
+95GG47S1,Water Works 1,195
+95GG47S2,Water Works 2,196
+95GG47S3,Water Works 3,197
+95GG48S1,Whiterock 1,198
+95GG48S2,Whiterock 2,199
+95GG48S3,Whiterock 3,200
+95II13W1,Graham's Bridge,201
+95II14W1,Hillfoot,202
+95II15S1,Knockbracken 1,203
+95II15S2,Knockbracken 2,204
+95II16W1,Lisnasharragh,205
+95II17W1,Lower Braniel,206
+95II18W1,Minnowburn,207
+95II19S1,Moneyreagh 1,208
+95II19S2,Moneyreagh 2,209
+95II20W1,Newtownbreda,210
+95II21W1,Tullycarnet,211
+95II22W1,Upper Braniel,212
+95II23W1,Wynchurch,213
+95JJ01W1,Agivey,214
+95JJ02W1,Atlantic,215
+95JJ03S1,Ballysally 1,216
+95JJ03S2,Ballysally 2,217
+95JJ04S1,Castlerock 1,218
+95JJ04S2,Castlerock 2,219
+95JJ05W1,Central Coleraine,220
+95JJ06W1,Churchland,221
+95JJ07W1,Cross Glebe,222
+95JJ08S1,Dundooan 1,223
+95JJ08S2,Dundooan 2,224
+95JJ09W1,Dunluce,225
+95JJ10W1,Garvagh,226
+95JJ11S1,Hopefield 1,227
+95FF08W1,Fort,228
+95JJ11S2,Hopefield 2,229
+95JJ12W1,Kilrea,230
+95JJ13S1,Knocklynn 1,231
+95JJ13S2,Knocklynn 2,232
+95JJ14W1,Macosquin,233
+95JJ15W1,Mount Sandel,234
+95JJ16W1,Portstewart,235
+95JJ17W1,Ringsend,236
+95JJ18W1,Royal Portrush,237
+95JJ19S1,Strand 1 Coleraine,238
+95JJ19S2,Strand 2 Coleraine,239
+95JJ20S1,The Cuts 1,240
+95JJ20S2,The Cuts 2,241
+95JJ21W1,University,242
+95JJ22W1,Waterside,243
+95KK01W1,Ardboe,244
+95KK02W1,Coagh,245
+95KK03W1,Dunnamore,246
+95KK04W1,Gortalowry,247
+95KK05W1,Killycolpy,248
+95KK06W1,Killymoon,249
+95KK07W1,Lissan,250
+95KK08W1,Moneymore,251
+95DD04W1,Ballee,252
+95GG49S1,Windsor 1,253
+95FF09W1,Gilford,254
+95GG49S2,Windsor 2,255
+95DD05W1,Ballykeel,256
+95FF10W1,Gransha,257
+95GG49S3,Windsor 3,258
+95DD06W1,Ballyloughan,259
+95FF11W1,Katesbridge,260
+95GG49S4,Windsor 4,261
+95DD07S1,Broughshane 1,262
+95FF12W1,Lawrencetown,263
+95GG50S1,Woodstock 1,264
+95DD07S2,Broughshane 2,265
+95FF13W1,Loughbrickland,266
+95GG50S2,Woodstock 2,267
+95DD08W1,Castle Demesne,268
+95FF14W1,Quilly,269
+95GG50S3,Woodstock 3,270
+95DD09W1,Craigywarren,271
+95FF15W1,Rathfriland,272
+95GG51S1,Woodvale 1,273
+95DD10W1,Cullybackey,274
+95FF16W1,Seapatrick,275
+95GG51S2,Woodvale 2,276
+95DD11W1,Dunclug,277
+95FF17W1,The Cut,278
+95GG51S3,Woodvale 3,279
+95DD12W1,Dunminning,280
+95GG01S1,Andersonstown 1,281
+95HH01W1,Blackhead,282
+95DD13W1,Fair Green,283
+95GG01S2,Andersonstown 2,284
+95HH02S1,Bluefield 1,285
+95DD14S1,Galgorm 1,286
+95GG01S3,Andersonstown 3,287
+95HH02S2,Bluefield 2,288
+95DD14S2,Galgorm 2,289
+95GG02S1,Ardoyne 1,290
+95HH03W1,Boneybefore,291
+95DD15W1,Glenravel,292
+95GG02S2,Ardoyne 2,293
+95HH04S1,Burleigh Hill 1,294
+95DD16W1,Glenwhirry,295
+95GG02S3,Ardoyne 3,296
+95HH04S2,Burleigh Hill 2,297
+95DD17W1,Grange,298
+95GG03S1,Ballyhackamore 1,299
+95HH05W1,Clipperstown,300
+95DD18W1,Harryville,301
+95GG03S2,Ballyhackamore 2,302
+95HH06S1,Eden 1,303
+95DD19S1,Kells 1,304
+95GG03S3,Ballyhackamore 3,305
+95HH06S2,Eden 2,306
+95DD19S2,Kells 2,307
+95GG04S1,Ballymacarrett 1,308
+95HH07W1,Gortalee,309
+95DD20W1,Moat,310
+95GG04S2,Ballymacarrett 2,311
+95HH08W1,Greenisland,312
+95DD21W1,Park,313
+95GG04S3,Ballymacarrett 3,314
+95HH09W1,Killycrot,315
+95DD22S1,Portglenone 1,316
+95GG05S1,Ballynafeigh 1,317
+95HH10W1,Knockagh,318
+95DD22S2,Portglenone 2,319
+95GG05S2,Ballynafeigh 2,320
+95HH11W1,Love Lane,321
+95DD23W1,Slemish,322
+95GG05S3,Ballynafeigh 3,323
+95HH12W1,Milebush,324
+95DD24W1,Summerfield,325
+95GG06S1,Ballysillan 1,326
+95HH13W1,Northland,327
+95EE01W1,Ballyhoe and Corkey,328
+95GG06S2,Ballysillan 2,329
+95HH14W1,Sunnylands,330
+95EE02W1,Benvardin,331
+95GG06S3,Ballysillan 3,332
+95HH15W1,Victoria Carrickfergus,333
+95EE03W1,Carnany,334
+95GG07S1,Beechmount 1,335
+95HH16W1,Whitehead,336
+95EE04W1,Clogh Mills,337
+95GG07S2,Beechmount 2,338
+95HH17W1,Woodburn,339
+95EE05W1,Dervock,340
+95GG07S3,Beechmount 3,341
+95II01S1,Ballyhanwood 1,342
+95EE06W1,Dunloy,343
+95GG08S1,Bellevue 1,344
+95II01S2,Ballyhanwood 2,345
+95II02S1,Beechill 1,346
+95II02S2,Beechill 2,347
+95II02S3,Beechill 3,348
+95II03S1,Cairnshill 1,349
+95II03S2,Cairnshill 2,350
+95II04S1,Carrowreagh 1,351
+95II04S2,Carrowreagh 2,352
+95II05S1,Carryduff East 1,353
+95II05S2,Carryduff East 2,354
+95II06S1,Carryduff West 1,355
+95II06S2,Carryduff West 2,356
+95II07W1,Cregagh,357
+95II08W1,Downshire,358
+95II09S1,Dundonald 1,359
+95II09S2,Dundonald 2,360
+95II10W1,Enler,361
+95II11W1,Galwally,362
+95II12W1,Gilnahirk,363
+95GG08S2,Bellevue 2,364
+95GG08S3,Bellevue 3,365
+95GG09S1,Belmont 1,366
+95GG09S2,Belmont 2,367
+95GG09S3,Belmont 3,368
+95GG10S1,Blackstaff 1,369
+95GG10S2,Blackstaff 2,370
+95GG11S1,Bloomfield 1 Belfast,371
+95GG11S2,Bloomfield 2 Belfast,372
+95GG11S3,Bloomfield 3 Belfast,373
+95GG12S1,Botanic 1,374
+95GG12S2,Botanic 2,375
+95GG12S3,Botanic 3,376
+95GG12S4,Botanic 4,377
+95GG12S5,Botanic 5,378
+95GG13S1,Castleview 1,379
+95GG13S2,Castleview 2,380
+95GG13S3,Castleview 3,381
+95EE07W1,Fairhill,382
+95EE08W1,Glebe,383
+95EE09W1,Killoquin Lower,384
+95EE10W1,Killoquin Upper,385
+95EE11W1,Knockaholet,386
+95EE12W1,Newhill,387
+95EE13W1,Route,388
+95EE14W1,Seacon,389
+95EE15W1,Stranocum,390
+95EE16W1,The Vow,391
+95FF01S1,Ballydown 1,392
+95FF01S2,Ballydown 2,393
+95FF02W1,Ballyward,394
+95FF03W1,Banbridge West,395
+95FF04W1,Bannside,396
+95FF05W1,Dromore North,397
+95FF06S1,Dromore South 1,398
+95FF06S2,Dromore South 2,399
+95FF07W1,Edenderry,400
+95SS11S2,Glenavy 2,401
+95SS12W1,Harmony Hill,402
+95SS13S1,Hilden 1,403
+95QQ09W1,Gardenmore,404
+95SS13S2,Hilden 2,405
+95SS14S1,Hillhall 1,406
+95SS14S2,Hillhall 2,407
+95LL26S1,Woodville 1,408
+95QQ10W1,Glenarm,409
+95SS15S1,Hillsborough 1,410
+95QQ11W1,Glynn,411
+95KK09W1,Newbuildings,412
+95LL26S2,Woodville 2,413
+95SS15S2,Hillsborough 2,414
+95QQ12W1,Harbour,415
+95KK10W1,Oaklands,416
+95MM01S1,Altnagelvin 1,417
+95SS16S1,Kilwee 1,418
+95QQ13W1,Island Magee,419
+95KK11W1,Oldtown,420
+95MM01S2,Altnagelvin 2,421
+95SS16S2,Kilwee 2,422
+95QQ14S1,Kilwaughter 1,423
+95KK12W1,Pomeroy,424
+95MM01S3,Altnagelvin 3,425
+95SS17S1,Knockmore 1,426
+95QQ14S2,Kilwaughter 2,427
+95KK13W1,Sandholes,428
+95MM02S1,Ballynashallog 1,429
+95SS17S2,Knockmore 2,430
+95QQ15W1,Town Parks,431
+95KK14W1,Stewartstown,432
+95MM02S2,Ballynashallog 2,433
+95SS18S1,Lagan Valley 1,434
+95RR01S1,Aghanloo 1,435
+95KK15W1,The Loop,436
+95MM03W1,Banagher,437
+95SS18S2,Lagan Valley 2,438
+95RR01S2,Aghanloo 2,439
+95KK16W1,Tullagh,440
+95MM04W1,Beechwood,441
+95SS19S1,Lambeg 1,442
+95RR02W1,Ballykelly,443
+95LL01S1,Aghagallon 1,444
+95MM05W1,Brandywell,445
+95SS19S2,Lambeg 2,446
+95RR03W1,Coolessan,447
+95LL01S2,Aghagallon 2,448
+95MM06S1,Carn Hill 1,449
+95SS20W1,Lisnagarvey,450
+95RR04W1,Dungiven,451
+95LL02S1,Annagh 1,452
+95MM06S2,Carn Hill 2,453
+95SS21S1,Maghaberry 1,454
+95RR05S1,Enagh 1 Limavady,455
+95LL02S2,Annagh 2,456
+95MM07W1,Caw,457
+95SS21S2,Maghaberry 2,458
+95RR05S2,Enagh 2 Limavady,459
+95MM08S1,Clondermot 1,460
+95LL03W1,Ballybay,461
+95LL04W1,Ballyoran,462
+95LL05S1,Bleary 1,463
+95MM08S2,Clondermot 2,464
+95SS22S1,Magheralave 1,465
+95MM09S1,Claudy 1,466
+95LL05S2,Bleary 2,467
+95RR06W1,Feeny,468
+95SS22S2,Magheralave 2,469
+95LL06S1,Brownstown 1,470
+95MM09S2,Claudy 2,471
+95RR07W1,Forest,472
+95SS23S1,Maze 1,473
+95LL06S2,Brownstown 2,474
+95MM10S1,Creggan Central 1,475
+95RR08W1,Glack,476
+95SS23S2,Maze 2,477
+95LL07W1,Church,478
+95MM10S2,Creggan Central 2,479
+95RR09S1,Gresteel 1,480
+95SS24S1,Moira 1,481
+95LL08S1,Corcrain 1,482
+95MM11W1,Creggan South,483
+95RR09S2,Gresteel 2,484
+95SS24S2,Moira 2,485
+95LL08S2,Corcrain 2,486
+95MM12S1,Crevagh 1,487
+95RR10W1,Greystone Limavady,488
+95SS25W1,Old Warren,489
+95LL09S1,Court 1,490
+95MM12S2,Crevagh 2,491
+95RR11W1,Magilligan,492
+95SS26S1,Poleglass 1,493
+95LL09S2,Court 2,494
+95MM12S3,Crevagh 3,495
+95RR12W1,Rathbrady,496
+95SS26S2,Poleglass 2,497
+95LL10S1,Derrytrasna 1,498
+95MM13S1,Culmore 1,499
+95RR13W1,Roeside,500
+95SS27W1,Seymour Hill,501
+95LL10S2,Derrytrasna 2,502
+95MM13S2,Culmore 2,503
+95RR14W1,The Highlands,504
+95SS28W1,Tonagh,505
+95LL11S1,Donaghcloney 1,506
+95MM13S3,Culmore 3,507
+95RR15W1,Upper Glenshane,508
+95SS29S1,Twinbrook 1,509
+95LL11S2,Donaghcloney 2,510
+95MM13S4,Culmore 4,511
+95SS01S1,Ballinderry 1,512
+95SS29S2,Twinbrook 2,513
+95LL12S1,Drumgask 1,514
+95MM13S5,Culmore 5,515
+95SS01S2,Ballinderry 2,516
+95SS30S1,Wallace Park 1,517
+95LL12S2,Drumgask 2,518
+95MM14S1,Ebrington 1,519
+95SS02S1,Ballymacash 1,520
+95SS30S2,Wallace Park 2,521
+95LL13S1,Drumgor 1,522
+95MM14S2,Ebrington 2,523
+95SS02S2,Ballymacash 2,524
+95TT01W1,Ballymaguigan,525
+95LL13S2,Drumgor 2,526
+95MM15S1,Eglinton 1,527
+95SS03S1,Ballymacbrennan 1,528
+95TT02W1,Bellaghy,529
+95LL14S1,Drumnamoe 1,530
+95MM15S2,Eglinton 2,531
+95SS03S2,Ballymacbrennan 2,532
+95TT03S1,Castledawson 1,533
+95LL14S2,Drumnamoe 2,534
+95MM16S1,Enagh 1 Derry,535
+95SS04S1,Ballymacoss 1,536
+95TT03S2,Castledawson 2,537
+95LL15S1,Edenderry 1,538
+95MM16S2,Enagh 2 Derry,539
+95SS04S2,Ballymacoss 2,540
+95TT04W1,Draperstown,541
+95LL15S2,Edenderry 2,542
+95MM17S1,Foyle Springs 1,543
+95SS04S3,Ballymacoss 3,544
+95TT05S1,Glebe 1 Magherafelt,545
+95LL16S1,Kernan 1,546
+95MM17S2,Foyle Springs 2,547
+95SS05S1,Blaris 1,548
+95TT05S2,Glebe 2 Magherafelt,549
+95LL16S2,Kernan 2,550
+95MM18S1,Holly Mount 1,551
+95SS05S2,Blaris 2,552
+95TT06W1,Gulladuff,553
+95LL17W1,Killycomain,554
+95MM18S2,Holly Mount 2,555
+95SS06S1,Collin Glen 1,556
+95TT07W1,Knockcloghrim,557
+95LL18S1,Knocknashane 1,558
+95MM19S1,Kilfennan 1,559
+95SS06S2,Collin Glen 2,560
+95TT08W1,Lecumpher,561
+95LL18S2,Knocknashane 2,562
+95MM19S2,Kilfennan 2,563
+95SS06S3,Collin Glen 3,564
+95TT09S1,Lower Glenshane 1,565
+95LL19S1,Magheralin 1,566
+95MM20S1,Lisnagelvin 1,567
+95SS07S1,Derryaghy 1,568
+95TT09S2,Lower Glenshane 2,569
+95LL19S2,Magheralin 2,570
+95MM20S2,Lisnagelvin 2,571
+95MM25S3,Shantallow West 3,572
+95SS07S2,Derryaghy 2,573
+95SS07S3,Derryaghy 3,574
+95SS08S1,Dromara 1,575
+95SS08S2,Dromara 2,576
+95SS09S1,Drumbo 1,577
+95SS09S2,Drumbo 2,578
+95SS10S1,Dunmurry 1,579
+95SS10S2,Dunmurry 2,580
+95SS11S1,Glenavy 1,581
+95TT10W1,Maghera,582
+95MM25S4,Shantallow West 4,583
+95MM21S1,New Buildings 1,584
+95LL20W1,Mourneview,585
+95TT11S1,Swatragh 1,586
+95MM26S1,Springtown 1,587
+95MM21S2,New Buildings 2,588
+95LL21W1,Parklake,589
+95TT11S2,Swatragh 2,590
+95MM26S2,Springtown 2,591
+95MM22S1,Pennyburn 1,592
+95LL22W1,Taghnevan,593
+95TT12W1,Tobermore,594
+95MM27S1,Strand 1 Derry,595
+95MM22S2,Pennyburn 2,596
+95LL23W1,Tavanagh,597
+95MM27S2,Strand 2 Derry,598
+95MM23W1,Rosemount,599
+95LL24S1,The Birches 1,600
+95MM28W1,The Diamond,601
+95MM24W1,Shantallow East,602
+95LL24S2,The Birches 2,603
+95MM29W1,Victoria Derry,604
+95MM25S1,Shantallow West 1,605
+95LL25S1,Waringstown 1,606
+95MM30W1,Westland,607
+95MM25S2,Shantallow West 2,608
+95LL25S2,Waringstown 2,609
+95NN01S1,Ardglass 1,610
+95NN01S2,Ardglass 2,611
+95NN02W1,Audley's Acre,612
+95NN03S1,Ballymaglave 1,613
+95NN03S2,Ballymaglave 2,614
+95NN04W1,Ballymote,615
+95NN05W1,Ballynahinch East,616
+95NN06S1,Castlewellan 1,617
+95NN06S2,Castlewellan 2,618
+95NN07S1,Cathedral 1,619
+95NN07S2,Cathedral 2,620
+95NN08S1,Crossgar 1,621
+95NN08S2,Crossgar 2,622
+95NN09S1,Derryboy 1,623
+95NN09S2,Derryboy 2,624
+95NN10S1,Donard 1,625
+95NN10S2,Donard 2,626
+95NN11S1,Drumaness 1,627
+95NN11S2,Drumaness 2,628
+95NN12W1,Dundrum,629
+95NN13W1,Dunmore,630
+95NN14S1,Killough 1,631
+95NN14S2,Killough 2,632
+95NN15W1,Killyleagh,633
+95NN16S1,Kilmore 1,634
+95NN16S2,Kilmore 2,635
+95NN17W1,Murlough,636
+95NN18S1,Quoile 1,637
+95NN18S2,Quoile 2,638
+95NN19S1,Saintfield 1,639
+95NN19S2,Saintfield 2,640
+95NN20W1,Seaforde,641
+95NN21W1,Shimna,642
+95NN22W1,Strangford,643
+95NN23S1,Tollymore 1,644
+95NN23S2,Tollymore 2,645
+95OO01W1,Altmore,646
+95OO02W1,Augher,647
+95OO03W1,Aughnacloy,648
+95OO04W1,Ballygawley,649
+95OO05W1,Ballysaggart,650
+95OO06W1,Benburb,651
+95OO07W1,Caledon,652
+95OO08W1,Castlecaulfield,653
+95OO09W1,Clogher,654
+95OO10W1,Coalisland North,655
+95OO11W1,Coalisland South,656
+95OO12W1,Coalisland West and Newmills,657
+95OO13W1,Coolhill,658
+95OO14W1,Donaghmore,659
+95OO15W1,Drumglass,660
+95OO16W1,Fivemiletown,661
+95OO17W1,Killyman,662
+95OO18W1,Killymeal,663
+95OO19W1,Moy,664
+95OO20W1,Moygashel,665
+95OO21W1,Mullaghmore,666
+95OO22W1,Washing Bay,667
+95PP01W1,Ballinamallard,668
+95PP02W1,Belcoo and Garrison,669
+95PP03W1,Belleek and Boa,670
+95PP04W1,Boho Cleenish and Letterbreen,671
+95PP05W1,Brookeborough,672
+95PP06S1,Castlecoole 1,673
+95PP06S2,Castlecoole 2,674
+95PP07W1,Derrygonnelly,675
+95PP08W1,Derrylin,676
+95PP09W1,Devenish,677
+95PP10W1,Donagh,678
+95PP11W1,Erne,679
+95PP12W1,Florence Court and Kinawley,680
+95PP13W1,Irvinestown,681
+95PP14S1,Kesh Ederney and Lack 1,682
+95PP14S2,Kesh Ederney and Lack 2,683
+95PP15W1,Lisbellaw,684
+95PP16W1,Lisnarrick,685
+95PP17W1,Lisnaskea,686
+95PP18W1,Maquires Bridge,687
+95PP19W1,Newtownbutler,688
+95PP20W1,Portora,689
+95PP21W1,Rosslea,690
+95PP22W1,Rossorry,691
+95PP23W1,Tempo,692
+95QQ01W1,Antiville,693
+95QQ02W1,Ballycarry,694
+95QQ03W1,Ballyloran,695
+95QQ04W1,Blackcave,696
+95QQ05W1,Carncastle,697
+95QQ06W1,Carnlough,698
+95QQ07W1,Central Larne,699
+95QQ08W1,Craigy Hill,700
+95VV24S1,Seaview 1,701
+95TT13S1,Town Parks East 1,702
+95VV24S2,Seaview 2,703
+95VV25S1,Silver Bridge 1,704
+95VV25S2,Silver Bridge 2,705
+95VV26W1,Spelga,706
+95VV27W1,St Mary's,707
+95VV28S1,St Patrick's 1,708
+95VV28S2,St Patrick's 2,709
+95VV29W1,Tullyhappy,710
+95VV30S1,Windsor Hill 1,711
+95VV30S2,Windsor Hill 2,712
+95WW01S1,Abbey 1,713
+95WW01S2,Abbey 2,714
+95TT13S2,Town Parks East 2,715
+95WW02S1,Ballyclare North 1,716
+95TT14W1,Town Parks West,717
+95WW02S2,Ballyclare North 2,718
+95TT15W1,Upperlands,719
+95WW03S1,Ballyclare South 1,720
+95TT16W1,Valley,721
+95WW03S2,Ballyclare South 2,722
+95UU06W1,Dalriada,723
+95WW04S1,Ballyduff 1,724
+95UU09W1,Glenariff,725
+95WW04S2,Ballyduff 2,726
+95UU14W1,Knocklayd,727
+95WW05S1,Ballyhenry 1,728
+95UU99C1,Armoy & Moss-side and Moyarget,729
+95WW05S2,Ballyhenry 2,730
+95UU99C2,Ballylough & Bushmills,731
+95WW06S1,Ballynure 1,732
+95UU99C3,Bonamargy and Rathlin & Glenshesk,733
+95WW06S2,Ballynure 2,734
+95UU99C4,Carnmoon & Dunseverick,735
+95WW07S1,Ballyrobert 1,736
+95UU99C5,Glenaan & Glendun,737
+95WW07S2,Ballyrobert 2,738
+95UU99C6,Glentaisie & Kinbane,739
+95WW08S1,Burnthill 1,740
+95VV01S1,Annalong 1,741
+95WW08S2,Burnthill 2,742
+95VV01S2,Annalong 2,743
+95WW09S1,Carnmoney 1,744
+95VV02W1,Ballybot,745
+95WW09S2,Carnmoney 2,746
+95VV03W1,Bessbrook,747
+95WW10S1,Cloughfern 1,748
+95VV04W1,Binnian,749
+95WW10S2,Cloughfern 2,750
+95VV05S1,Burren and Kilbroney 1,751
+95WW11S1,Collinbridge 1,752
+95VV05S2,Burren and Kilbroney 2,753
+95WW11S2,Collinbridge 2,754
+95VV06W1,Camlough,755
+95WW12W1,Coole,756
+95VV07S1,Clonallan 1,757
+95WW13S1,Doagh 1,758
+95VV07S2,Clonallan 2,759
+95WW13S2,Doagh 2,760
+95VV08W1,Creggan,761
+95WW14W1,Dunanney,762
+95VV09W1,Crossmaglen,763
+95WW15S1,Glebe 1 Newtownabbey,764
+95VV10S1,Daisy hill 1,765
+95WW15S2,Glebe 2 Newtownabbey,766
+95VV10S2,Daisy hill 2,767
+95WW16S1,Glengormley 1,768
+95VV11S1,Derryleckagh 1,769
+95WW16S2,Glengormley 2,770
+95VV11S2,Derryleckagh 2,771
+95WW17W1,Hawthorne,772
+95VV12S1,Derrymore 1,773
+95WW18W1,Hightown,774
+95VV12S2,Derrymore 2,775
+95WW19S1,Jordanstown 1,776
+95VV13S1,Donaghmore 1,777
+95WW19S2,Jordanstown 2,778
+95VV13S2,Donaghmore 2,779
+95WW19S3,Jordanstown 3,780
+95VV14S1,Drumalane 1,781
+95WW20S1,Mallusk 1,782
+95VV14S2,Drumalane 2,783
+95WW20S2,Mallusk 2,784
+95VV15S1,Drumgullion 1,785
+95WW20S3,Mallusk 3,786
+95VV15S2,Drumgullion 2,787
+95WW21S1,Monkstown 1,788
+95VV16W1,Fathom,789
+95VV17S1,Forkhill 1,790
+95VV17S2,Forkhill 2,791
+95VV18S1,Kilkeel Central 1,792
+95VV18S2,Kilkeel Central 2,793
+95VV19S1,Kilkeel South 1,794
+95VV19S2,Kilkeel South 2,795
+95VV20W1,Lisnacree,796
+95VV21S1,Mayobridge 1,797
+95VV21S2,Mayobridge 2,798
+95VV22W1,Newtownhamilton,799
+95VV23W1,Rostrevor,800
+95WW21S2,Monkstown 2,801
+95WW22S1,Mossley 1,802
+95WW22S2,Mossley 2,803
+95WW23S1,Rostulla 1,804
+95WW23S2,Rostulla 2,805
+95WW24S1,Valley 1,806
+95WW24S2,Valley 2,807
+95WW25W1,Whitehouse,808
+95XX01S1,Ballycrochan 1,809
+95XX01S2,Ballycrochan 2,810
+95XX01S3,Ballycrochan 3,811
+95XX02W1,Ballyholme,812
+95XX03S1,Ballymaconnell 1,813
+95XX03S2,Ballymaconnell 2,814
+95XX04S1,Ballymagee 1,815
+95XX04S2,Ballymagee 2,816
+95XX05W1,Bangor Castle,817
+95XX06S1,Bloomfield 1 NorthDown,818
+95XX06S2,Bloomfield 2 NorthDown,819
+95XX07S1,Broadway 1,820
+95XX07S2,Broadway 2,821
+95XX08S1,Bryansburn 1,822
+95XX08S2,Bryansburn 2,823
+95XX09S1,Churchill 1,824
+95XX09S2,Churchill 2,825
+95XX10S1,Clandeboye 1,826
+95XX10S2,Clandeboye 2,827
+95XX10S3,Clandeboye 3,828
+95XX11S1,Conlig 1,829
+95XX11S2,Conlig 2,830
+95XX11S3,Conlig 3,831
+95XX12W1,Craigavad,832
+95XX13W1,Crawfordsburn,833
+95XX14W1,Cultra,834
+95XX15W1,Dufferin,835
+95XX16W1,Groomsport,836
+95XX17S1,Harbour 1,837
+95XX17S2,Harbour 2,838
+95XX18W1,Holywood Demesne,839
+95XX19W1,Holywood Priory,840
+95XX20S1,Loughview 1,841
+95XX20S2,Loughview 2,842
+95XX21W1,Princetown,843
+95XX22W1,Rathgael,844
+95XX23W1,Silverstream,845
+95XX24S1,Springhill 1,846
+95XX24S2,Springhill 2,847
+95XX25W1,Whitehill,848
+95YY01W1,Beragh,849
+95YY02W1,Camowen,850
+95YY03W1,Clanabogan,851
+95YY04W1,Coolnagard,852
+95YY05W1,Dergmoney,853
+95YY06W1,Dromore,854
+95YY07W1,Drumnakilly,855
+95YY08W1,Drumquin,856
+95YY09W1,Drumragh,857
+95YY10W1,Fairy Water,858
+95YY11W1,Fintona,859
+95YY12W1,Gortin,860
+95YY13S1,Gortrush 1,861
+95YY13S2,Gortrush 2,862
+95YY14S1,Killyclogher 1,863
+95YY14S2,Killyclogher 2,864
+95YY15S1,Lisanelly 1,865
+95YY15S2,Lisanelly 2,866
+95YY16W1,Newtownsaville,867
+95YY17W1,Owenkillew,868
+95YY18W1,Sixmilecross,869
+95YY19W1,Strule,870
+95YY20W1,Termon,871
+95YY21W1,Trillick,872
+95ZZ01W1,Artigarvan,873
+95ZZ02W1,Ballycolman,874
+95ZZ03W1,Castlederg,875
+95ZZ04W1,Clare,876
+95ZZ05W1,Dunnamanagh,877
+95ZZ06W1,East,878
+95ZZ07W1,Finn,879
+95ZZ08W1,Glenderg,880
+95ZZ09W1,Newtownstewart,881
+95ZZ10W1,North,882
+95ZZ11W1,Plumbridge,883
+95ZZ12W1,Sion Mills,884
+95ZZ13W1,Slievekirk,885
+95ZZ14S1,South 1,886
+95ZZ14S2,South 2,887
+95ZZ15W1,Victoria Bridge,888
+95ZZ16S1,West 1,889
+95ZZ16S2,West 2,890
