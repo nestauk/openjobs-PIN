@@ -33,7 +33,6 @@ Resources and instructions on how to do it can be found on these Github reposito
 <li> https://github.com/datasciencecampus/proper </li>
 <li> https://github.com/datasciencecampus/graphite </li>
 
-4. <b> Install PropeR. </b>
-TBA.
+Along the way, there will be the need to install/download many other resources, such as <a href="https://github.com/planarnetwork/dtd2mysql">dtd2mysql</a>.
 
 # Workflow
