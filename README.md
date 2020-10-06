@@ -66,3 +66,5 @@ All notes can be found <a href="https://drive.google.com/drive/folders/1bzfw-BjZ
 Outputs can be found <a href="https://drive.google.com/drive/folders/1G8XdBoeqFmuLYVqarNgtCJ9zC1NCxA6o?usp=sharing">here</a>.
 
 Copies of (some of) the plots produced can be found <a href="https://drive.google.com/drive/folders/1DJAJ_kNalMXaWqE2wJblP4XnSm8hyerx?usp=sharing">here</a>.
+
+There is some further data available, like pre-compiled OTP graphs. More information can be found <a href="https://docs.google.com/document/d/1em3bgZIBo_gqmb9Jis--PegvIrL1nnaPb9p2VriDY_Y/edit?usp=sharing">here</a>.
