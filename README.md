@@ -13,7 +13,7 @@ Stef Garasto, Jyldyz Djumalieva
 
 # Getting started
 
-## Installation
+## Installation and setup
 1. <b> Clone the repo. </b> In a terminal, after navigating to the folder where you want to install the skill_demand repo, type:
 
 <code>
@@ -47,7 +47,18 @@ Other files are already included in the directory under <code>data/Map-files</co
 
 # Workflow
 
-Get information from LMI for ALL. Have not uploaded mine because it can not be cached.
+The output of this project can be seen <a href = "https://productivityinsightsnetwork.co.uk/app/uploads/2019/08/Nesta_regional_skill_mismatch_reportv2.pdf">here</a>.
+
+The goal of the project is to collect data on travel times using open source software (Open Trip Planner, Open Street Map, etc.) and then compute a measure of job accessibility. We want to know how easy it is for people to reach jobs.
+
+The overall workflow is as follows:
+1. Get information on the occupational breakdown of workers by OA from LMI for ALL (<code>Jobs_breakdown_get_data.ipynb</code>). The number of jobs per OAs should already be included in the data folder (it is taken from the Business Register and Employment Survey).
+2. Get the centroids for each OA and LSOA using the ONs postcode directory (<code>get_oa_lsoa_centroids.ipynb</code>).
+3. Install local instances of Open Trip Planner (OTP) together with PropeR. PropeR is a package released by the ONS Data Science Campus with which to query OTP. Instructions are in the links in the section above.
+4. Collect data for the West Midlands for all possible pairs of LSOAs using PropeR and OTP (<code>propeR_get_data.ipynb</code> and <code>propeR_get_data-copy-to-run.ipynb</code>).
+5. Analyse the data to compute the job accessibility measures (<code>propeR_analyse_data.ipynb</code>).
+
+It is also possible to analyse commuting distances (from Census 2011): see scripts beginning with <code>commuting_distances</code>.
 
 # Further information
 All notes can be found <a href="https://drive.google.com/drive/folders/1bzfw-BjZ7KI8tSUjbGck0w_-0s2rgFaP?usp=sharing">here</a>.
