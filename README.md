@@ -61,6 +61,8 @@ The overall workflow is as follows:
 
 It is also possible to analyse commuting distances (from Census 2011): see scripts beginning with <code>commuting_distances</code>.
 
+Finally, in the folder <code>results/tmp-propeR-res</code> there is the data from propeR that has been collected so far for the West Midlands. This is in a slightly different format than the code uses, but it was necessary to be able to upload it.
+
 # Further information
 All notes can be found <a href="https://drive.google.com/drive/folders/1bzfw-BjZ7KI8tSUjbGck0w_-0s2rgFaP?usp=sharing">here</a>.
 
