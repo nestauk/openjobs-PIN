@@ -70,4 +70,4 @@ Outputs can be found <a href="https://drive.google.com/drive/folders/1G8XdBoeqFm
 
 Copies of (some of) the plots produced can be found <a href="https://drive.google.com/drive/folders/1DJAJ_kNalMXaWqE2wJblP4XnSm8hyerx?usp=sharing">here</a>.
 
-There is some further data available, like pre-compiled OTP graphs. More information can be found <a href="https://docs.google.com/document/d/1em3bgZIBo_gqmb9Jis--PegvIrL1nnaPb9p2VriDY_Y/edit?usp=sharing">here</a>.
+There is some further data available. For example, the data collected for the West Midlands is stored in this <a href="https://s3.console.aws.amazon.com/s3/buckets/open-jobs-lake/travel-times-west-midlands">S3 bucket</a>, in the folder 'travel-times-west-midlands'. More information can be found <a href="https://docs.google.com/document/d/1em3bgZIBo_gqmb9Jis--PegvIrL1nnaPb9p2VriDY_Y/edit?usp=sharing">here</a>.
